@@ -45,7 +45,7 @@
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
   <div style="text-align: left;">
-    <img src="https://github-readme-stats.vercel.app/api?username=wkp48&show_icons=true&theme=radical&title_color=000000&text_color=000000&bg_color=ffffff00" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkp48&layout=compact&theme=radical&title_color=000000&text_color=000000&bg_color=ffffff00" />
+    <img src="https://github-readme-stats.vercel.app/api?username=wkp48&show_icons=true&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkp48&layout=compact&theme=radical" />
   </div>
 </div>
